@@ -7,8 +7,14 @@ pull last changes
 you should setup a virtual host or host this laravel code into a server,
 
 it requires also execute some laravels artisan commands as 
+
+
+composer install 
+
 php artisan migrate
 php artisan db:seed 
+
+
 
 the authentications are used by the defautl handlers,
 
